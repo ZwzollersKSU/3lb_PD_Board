@@ -19,10 +19,10 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 12dffd92-25ca-4b28-b9d6-e9dd59b71238))
   (fp_rect (start 5.25 -2.25) (end -5.25 -7.75)
     (stroke (width 0.12) (type solid)) (fill none) (layer "F.SilkS") (tstamp 4bb17242-1e62-467c-9c37-4af4bd6e1669))
-  (pad "1" thru_hole circle (at -2.25 -5) (size 3.6 3.6) (drill 2.75) (layers "*.Cu" "*.Mask") (tstamp 9ac82459-f69e-4d20-982f-9d5166760593))
-  (pad "2" thru_hole circle (at 2.25 -5) (size 3.6 3.6) (drill 2.75) (layers "*.Cu" "*.Mask") (tstamp 02eb5b34-1d20-49d2-959d-8cc5b595d620))
-  (model "G:/3lb_PD_Board/KiCad/XT-30 v2.step"
-    (offset (xyz 5 2.25 0))
+  (pad "1" thru_hole circle (at -2.4 -4.975) (size 3.6 3.6) (drill 2.75) (layers "*.Cu" "*.Mask") (tstamp 9ac82459-f69e-4d20-982f-9d5166760593))
+  (pad "2" thru_hole circle (at 2.575 -5) (size 3.6 3.6) (drill 2.75) (layers "*.Cu" "*.Mask") (tstamp 02eb5b34-1d20-49d2-959d-8cc5b595d620))
+  (model "C:/Users/zwzol/Documents/College/Clubs/Robotics/3lb_PD_Board/KiCad/XT-30 v2.step"
+    (offset (xyz 5.2 2.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )
